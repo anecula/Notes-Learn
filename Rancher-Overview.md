@@ -24,7 +24,7 @@ Steps:
       (https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/)
   - Install rancher (https://releases.rancher.com/cli/v0.6.1/rancher-linux-amd64-v0.6.1.tar.gz):
   ```
-  1. untar tancher archive
+  1. untar rancher archive
   2. cd in rancher folder
   3. sudo mv rancher  /usr/bin/
 
